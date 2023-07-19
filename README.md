@@ -4,6 +4,8 @@ This file used the JSON file instead of the database.
 
 # ![Coffee-Store_Home](https://user-images.githubusercontent.com/107653868/209746259-03b1c6e9-c439-4532-8972-137b9e181177.png)
 
+## Demo
+Here is a working live demo :  https://lukeshin3022.github.io/
 
 ## Available Scripts
 
@@ -27,11 +29,6 @@ This file used the JSON file instead of the database.
     </td>
   </tr>
 </table>
-
-
-## Demo
-Here is a working live demo :  https://lukeshin3022.github.io/
-
 
 ## Site
 
